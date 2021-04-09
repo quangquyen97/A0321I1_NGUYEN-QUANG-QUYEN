@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfdab796-bf61-4873-9fbd-0dcbe9002673" name="Default Changelist" comment="[Thực hành] Tạo form cơ bản">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/lexun.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. HTML Form &amp; Table/Thuc_Hanh/SimpleForm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/debugindex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/index.js" afterDir="false" />
+    <list default="true" id="cfdab796-bf61-4873-9fbd-0dcbe9002673" name="Default Changelist" comment="[Thực Hành] Form tìm kiếm Google">
+      <change afterPath="$PROJECT_DIR$/5. HTML Form &amp; Table/Thuc_Hanh/formtimkiemGOOGLE.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6. Tổng quan JavaScript/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6. Tổng quan JavaScript/debugindex.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6. Tổng quan JavaScript/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6. Tổng quan JavaScript/index.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617966427667</updated>
-      <workItem from="1617966431814" duration="9041000" />
+      <workItem from="1617966431814" duration="9834000" />
     </task>
     <task id="LOCAL-00001" summary="[Bài giảng] Nhúng mã Javascript vào file HTML">
       <created>1617967241827</created>
@@ -82,20 +73,25 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="[Bài giảng] Nhúng mã Javascript vào file HTML" />
     <MESSAGE value="[Thực hành] Tạo form cơ bản" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Thực hành] Tạo form cơ bản" />
+    <MESSAGE value="[Thực Hành] Form tìm kiếm Google" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Thực Hành] Form tìm kiếm Google" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617973520331">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="223" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1617973520331" />
-    <state x="393" y="13" key="CommitChangelistDialog2" timestamp="1617976919270">
+    <state x="393" y="13" key="CommitChangelistDialog2" timestamp="1617977681735">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="393" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1617976919270" />
-    <state x="425" y="191" key="run.anything.popup" timestamp="1617976005920">
+    <state x="393" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1617977681735" />
+    <state x="578" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617977690787">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="425" y="191" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1617976005920" />
+    <state x="578" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1617977690787" />
+    <state x="425" y="191" key="run.anything.popup" timestamp="1617977707977">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="191" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1617977707977" />
   </component>
 </project>
