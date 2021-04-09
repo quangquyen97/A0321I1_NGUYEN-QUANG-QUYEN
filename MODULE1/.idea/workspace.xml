@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfdab796-bf61-4873-9fbd-0dcbe9002673" name="Default Changelist" comment="[Thực Hành] Form tìm kiếm Google">
-      <change afterPath="$PROJECT_DIR$/5. HTML Form &amp; Table/Thuc_Hanh/formtimkiemGOOGLE.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cfdab796-bf61-4873-9fbd-0dcbe9002673" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617966427667</updated>
-      <workItem from="1617966431814" duration="9834000" />
+      <workItem from="1617966431814" duration="9847000" />
     </task>
     <task id="LOCAL-00001" summary="[Bài giảng] Nhúng mã Javascript vào file HTML">
       <created>1617967241827</created>
@@ -63,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617967241827</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[Thực Hành] Form tìm kiếm Google">
+      <created>1617977723030</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617977723030</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,10 +85,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="223" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1617973520331" />
-    <state x="393" y="13" key="CommitChangelistDialog2" timestamp="1617977681735">
+    <state x="393" y="13" key="CommitChangelistDialog2" timestamp="1617977722646">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="393" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1617977681735" />
+    <state x="393" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1617977722646" />
     <state x="578" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617977690787">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
