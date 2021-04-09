@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfdab796-bf61-4873-9fbd-0dcbe9002673" name="Default Changelist" comment="[Bài giảng] Nhúng mã Javascript vào file HTML">
+      <change afterPath="$PROJECT_DIR$/.idea/MODULE1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. HTML Form &amp; Table/Thuc_Hanh/[Thực hành] Tạo bảng cơ bản.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. HTML Form &amp; Table/Thuc_Hanh/cospan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. HTML Form &amp; Table/Thuc_Hanh/taobangtronghtml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/debugindex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qviNwlvboUQ1herplZIWucIZUK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\A0321I1_NGUYEN_QUANG_QUYEN\MODULE1\5. HTML Form &amp; Table\Thuc_Hanh" />
+      <recent name="E:\A0321I1_NGUYEN_QUANG_QUYEN\MODULE1\6. Tổng quan JavaScript" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfdab796-bf61-4873-9fbd-0dcbe9002673" name="Default Changelist" comment="" />
+      <created>1617966427667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617966427667</updated>
+      <workItem from="1617966431814" duration="4955000" />
+    </task>
+    <task id="LOCAL-00001" summary="[Bài giảng] Nhúng mã Javascript vào file HTML">
+      <created>1617967241827</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617967241827</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[Bài giảng] Nhúng mã Javascript vào file HTML" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Bài giảng] Nhúng mã Javascript vào file HTML" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617971344162">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1617971344162" />
+    <state x="393" y="13" key="CommitChangelistDialog2" timestamp="1617967384662">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="393" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1617967384662" />
+    <state x="425" y="191" key="run.anything.popup" timestamp="1617971926640">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="191" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1617971926640" />
+  </component>
+</project>
