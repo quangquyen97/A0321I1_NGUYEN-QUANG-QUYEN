@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfdab796-bf61-4873-9fbd-0dcbe9002673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5. HTML Form &amp; Table/Bai_Tap/[Bài tập] Tạo form lấy survey khách hàng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/[Bài giảng] Sự kiện onchange.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/[Thực hành] Hiển thị đầu ra.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/[Thực hành] Nhúng JavaScript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/[Thực hành] Nhúng JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -40,6 +45,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\A0321I1_NGUYEN_QUANG_QUYEN\MODULE1\6. Tổng quan JavaScript\Thuc_Hanh" />
       <recent name="E:\A0321I1_NGUYEN_QUANG_QUYEN\MODULE1\5. HTML Form &amp; Table\Thuc_Hanh" />
       <recent name="E:\A0321I1_NGUYEN_QUANG_QUYEN\MODULE1\6. Tổng quan JavaScript" />
     </key>
@@ -56,6 +62,7 @@
       <updated>1617966427667</updated>
       <workItem from="1617966431814" duration="9847000" />
       <workItem from="1618151681096" duration="7618000" />
+      <workItem from="1618225498933" duration="2879000" />
     </task>
     <task id="LOCAL-00001" summary="[Bài giảng] Nhúng mã Javascript vào file HTML">
       <created>1617967241827</created>
@@ -101,9 +108,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="425" y="191" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1617977707977" />
-    <state x="815" y="155" key="search.everywhere.popup" timestamp="1618154355603">
+    <state x="815" y="155" key="search.everywhere.popup" timestamp="1618226824717">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="815" y="155" key="search.everywhere.popup/0.0.1536.834/1920.0.2560.1409@0.0.1536.834" timestamp="1618154355603" />
+    <state x="815" y="155" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1618226824717" />
   </component>
 </project>
