@@ -2,13 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfdab796-bf61-4873-9fbd-0dcbe9002673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/[Bài giảng] Sự kiện onchange.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/[Thực hành] Hiển thị đầu ra.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/[Thực hành] Nhúng JavaScript.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/[Thực hành] Nhúng JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Tổng quan JavaScript/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Bien_va_kieu_du_lieu_toan_tu/Thuc_Hanh/Khai_bao_va_su_dung_bien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Quyên - CODEGYM.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/lexun.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Mô tả thuật toán bằng Pseudo code &amp; Flowchart/Thực Hành/(Bài Tập) Mô tả thuật toán hoán đổi tiền tệ.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Mô tả thuật toán bằng Pseudo code &amp; Flowchart/Thực Hành/THỰC HÀNH.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Mô tả thuật toán bằng Pseudo code &amp; Flowchart/Thực Hành/[Bài tập] Mô tả thuật toán có cấu trúc điều kiện.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Mô tả thuật toán bằng Pseudo code &amp; Flowchart/Thực Hành/[Bài tập] Mô tả thuật toán tìm giá trị lớn nhất trong 3 số.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Mô tả thuật toán bằng Pseudo code &amp; Flowchart/Thực Hành/[Bài tập] Mô tả thuật toán tìm giá trị lớn nhất trong một dãy số.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Mô tả thuật toán bằng Pseudo code &amp; Flowchart/Thực Hành/[Thực hành] Thuật toán chuyển đổi nhiệt độ.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Mô tả thuật toán bằng Pseudo code &amp; Flowchart/Thực Hành/[Thực hành] Thuật toán game đoán số.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. HTML Form &amp; Table/Bai_Tap/[Bài tập] Tạo form lấy survey khách hàng.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. HTML Form &amp; Table/Thuc_Hanh/SimpleForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. HTML Form &amp; Table/Thuc_Hanh/[Thực hành] Tạo bảng cơ bản.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. HTML Form &amp; Table/Thuc_Hanh/cospan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. HTML Form &amp; Table/Thuc_Hanh/formtimkiemGOOGLE.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. HTML Form &amp; Table/Thuc_Hanh/taobangtronghtml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/[Bài giảng] Sự kiện onchange.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/[Thực hành] Hiển thị đầu ra.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/[Thực hành] Nhúng JavaScript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/[Thực hành] Nhúng JavaScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/debugindex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Tổng quan JavaScript/Thuc_Hanh/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Tổng quan JavaScript/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Tổng quan JavaScript/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bien_va_kieu_du_lieu/Bai_Tap/abc.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +39,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -62,7 +83,8 @@
       <updated>1617966427667</updated>
       <workItem from="1617966431814" duration="9847000" />
       <workItem from="1618151681096" duration="7618000" />
-      <workItem from="1618225498933" duration="2879000" />
+      <workItem from="1618225498933" duration="4101000" />
+      <workItem from="1618329863089" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="[Bài giảng] Nhúng mã Javascript vào file HTML">
       <created>1617967241827</created>
