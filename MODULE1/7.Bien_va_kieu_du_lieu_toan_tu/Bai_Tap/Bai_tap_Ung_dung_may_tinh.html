@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <p><strong>Calculator</strong></p>
+<form >
+        <input type="number" id="o1"> <input type="number" id="o2"><br/>
+        <p></p>
+        <button onclick="add()" type="button" value="Addition+">Addition+</button>
+        <button onclick="sub()" type="button" value="Subtraction-">Subtraction-</button>
+        <button onclick="mul()" type="button" value="Multiplication*">Multiplication*</button>
+        <button onclick="div()" type="button" value="Division/">Division/</button>
+</form>
+<script >
+
+    function add(){
+        var inputa=document.getElementById("o1").value;
+        var inputb=document.getElementById("o2").value;
+        var a=parseInt(inputa);
+        var b=parseInt(inputb);
+        var cong=a+b;
+        alert('ket qua la ' + cong);
+    }
+    function sub() {
+        var inputa=document.getElementById("o1").value;
+        var inputb=document.getElementById("o2").value;
+        var a=parseInt(inputa);
+        var b=parseInt(inputb);
+        let tru=a-b;
+        alert('ket qua la ' + tru);
+    }
+    function mul() {
+        var inputa=document.getElementById("o1").value;
+        var inputb=document.getElementById("o2").value;
+        var a=parseInt(inputa);
+        var b=parseInt(inputb);
+        let nhan=a*b;
+        alert('ket qua la ' + nhan);
+    }
+    function div() {
+        var inputa=document.getElementById("o1").value;
+        var inputb=document.getElementById("o2").value;
+        var a=parseInt(inputa);
+        var b=parseInt(inputb);
+        let chia=a/b;
+        alert('ket qua la '+ chia);
+    }
+</script>
+</body>
+</html>
