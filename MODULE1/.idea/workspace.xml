@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfdab796-bf61-4873-9fbd-0dcbe9002673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7.Bien_va_kieu_du_lieu_toan_tu/Bai_Tap/Bai_tap_1_Bien_kieu_du_lieu_va_toan_tu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.Bien_va_kieu_du_lieu_toan_tu/Bai_Tap/Bai_tap_2_Bien_kieu_du_lieu_va_toan_tu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.Bien_va_kieu_du_lieu_toan_tu/Bai_Tap/Bai_tap_3_Bien_kieu_du_lieu_va_toan_tu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.Bien_va_kieu_du_lieu_toan_tu/Bai_Tap/Bai_tap_4_Bien_kieu_du_lieu_va_toan_tu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.Bien_va_kieu_du_lieu_toan_tu/Bai_Tap/Bai_tap_Ung_dung_chuyen_doi_tien_te.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.Bien_va_kieu_du_lieu_toan_tu/Bai_Tap/Bai_tap_Ung_dung_may_tinh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.Bien_va_kieu_du_lieu_toan_tu/Bai_Tap/Ung_dung_may_tinh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.Bien_va_kieu_du_lieu_toan_tu/Bai_Tap/chuyen_doi_tien_te.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.Bien_va_kieu_du_lieu_toan_tu/Thuc_Hanh/Su_dung_toan_tu.html" afterDir="false" />
+    <list default="true" id="cfdab796-bf61-4873-9fbd-0dcbe9002673" name="Default Changelist" comment="[Thực Hành] Form tìm kiếm Google">
+      <change afterPath="$PROJECT_DIR$/8.Cau_truc_dieu_kien_1/Thuc_hanh/Thuc_hanh_Kiem_tra_nam_nhuan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Cau_truc_dieu_kien_1/Thuc_hanh/Thuc_hanh_Luyen_tap_voi_cau_truc_if_else.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Cau_truc_dieu_kien_1/Thuc_hanh/Thuc_hanh_Luyen_tap_voi_cau_truc_switch_case.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Cau_truc_dieu_kien_1/Thuc_hanh/Thuc_hanh_Luyen_tap_voi_toan_tu_ba_ngoi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Cau_truc_dieu_kien_1/Thuc_hanh/Thuc_hanh_Thuc_hanh_voi_cau_truc_if_else_2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.Bien_va_kieu_du_lieu_toan_tu/Bai_Tap/Bai_tap_Ung_dung_chuyen_doi_tien_te.html" beforeDir="false" afterPath="$PROJECT_DIR$/7.Bien_va_kieu_du_lieu_toan_tu/Bai_Tap/Bai_tap_Ung_dung_chuyen_doi_tien_te.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -67,7 +64,9 @@
       <workItem from="1618151681096" duration="7618000" />
       <workItem from="1618225498933" duration="4101000" />
       <workItem from="1618329863089" duration="3938000" />
-      <workItem from="1618398482323" duration="5252000" />
+      <workItem from="1618398482323" duration="6728000" />
+      <workItem from="1618502374112" duration="730000" />
+      <workItem from="1618723775319" duration="4015000" />
     </task>
     <task id="LOCAL-00001" summary="[Bài giảng] Nhúng mã Javascript vào file HTML">
       <created>1617967241827</created>
@@ -108,10 +107,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="223" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1617973520331" />
-    <state x="393" y="13" key="CommitChangelistDialog2" timestamp="1618330522520">
+    <state x="393" y="13" key="CommitChangelistDialog2" timestamp="1618725216887">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="393" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1618330522520" />
+    <state x="393" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1618725216887" />
     <state x="578" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617977690787">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -120,10 +119,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="425" y="191" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1617977707977" />
-    <state x="815" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1618333328889">
+    <state x="815" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1618727587996">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="815" y="155" key="search.everywhere.popup/0.0.1536.834/1920.0.2560.1409@0.0.1536.834" timestamp="1618154355603" />
-    <state x="815" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1618333328889" />
+    <state x="815" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1618727587996" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/8.Cau_truc_dieu_kien_1/Thuc_hanh/Thuc_hanh_Kiem_tra_nam_nhuan.html</url>
+          <line>13</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
